@@ -5,6 +5,10 @@
 
 This Jupyter notebook analyzes the RaMBLE database to enumerate new BLE devices and technologies that the analyst may wish to investigate, by reporting device indicators not previously recorded.
 
+# Preview
+
+A static preview can be [found here](https://github.com/VirusFriendly/GobBLE/blob/master/assets/RaMBLE_original.html)
+
 # Get Started
 
 If you're unfamiliar with using Jupyter notebooks, [here's a simple tutorial](http://opentechschool.github.io/python-data-intro/core/notebook.html)
