@@ -7,7 +7,7 @@ This Jupyter notebook analyzes the RaMBLE database to enumerate new BLE devices 
 
 # Preview
 
-A static preview can be [found here](https://github.com/VirusFriendly/GobBLE/raw/master/assets/RaMBLE_original.html)
+A static preview can be [found here](https://github.com/VirusFriendly/GobBLE/raw/master/assets/GobBLE_original.html)
 
 # Get Started
 
@@ -40,3 +40,7 @@ python3 droplocation.py ~/Downloads/RaMBLE.sqlite
 ```
 
 Additionally, the RaMBLE database can also contain non-randomized MAC addresses, which people can also use to track your where-abouts. As this notebook file uses these addresses, an address stripper that doesn't break notebook functionality is in the works, but currently not included. **Post your databases at your own risk.**
+
+## Google Maps support
+
+To enable heatmaps of stationary devices, save your Google Maps Javascript SDK API Key in the file `gmaps_api.key`

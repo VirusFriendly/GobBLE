@@ -13345,7 +13345,6 @@ div#notebook {
 <span class="c1"># Turn our list into a dataframe</span>
 <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">device_report</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
     <span class="n">device_report</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">device_report</span><span class="p">)</span>
-    <span class="n">display</span><span class="p">(</span><span class="n">device_report</span><span class="p">)</span>
     <span class="n">device_report</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">context_columns</span>
 <span class="k">else</span><span class="p">:</span>
     <span class="n">device_report</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">columns</span> <span class="o">=</span> <span class="n">context_columns</span><span class="p">)</span>
