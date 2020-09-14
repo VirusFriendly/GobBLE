@@ -1,4 +1,6 @@
+gmaps_api.key
 RaMBLE.sqlite
 device_names.csv
 device_types.csv
+interesting_devices.csv
 .ipynb_checkpoints/

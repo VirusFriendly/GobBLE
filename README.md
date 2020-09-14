@@ -23,7 +23,7 @@ Export the RaMBLE database and copy it to the location with the notebook as `RaM
 
 ### CAUTION
 
-The RaMBLE database contains location data, which people can use to track your whereabouts and possibly the location of your home, school, or workplace. If you're concerned about sharing your location data, run the droplocation.py provided in the extras directory.
+The RaMBLE database contains location data, which people can use to track your where-abouts and possibly the location of your home, school, or workplace. If you're concerned about sharing your location data, run the droplocation.py provided in the extras directory.
 
 Example:
 
@@ -38,3 +38,5 @@ or provide the script the location (on your computer) of the database
 ```
 python3 droplocation.py ~/Downloads/RaMBLE.sqlite
 ```
+
+Additionally, the RaMBLE database can also contain non-randomized MAC addresses, which people can also use to track your where-abouts. As this notebook file uses these addresses, an address stripper that doesn't break notebook functionality is in the works, but currently not included. **Post your databases at your own risk.**
