@@ -1,2 +1,4 @@
 wget -q -O RaMBLE.sqlite "https://drive.google.com/uc?export=download&id=1OwX_lP-NPir2MI9NPbcvi0DevXz8KhO3"
+wget -q -O data/nmap-mac-prefixes "https://linuxnet.ca/ieee/oui/nmap-mac-prefixes"
+wget -q -O data/cid.csv "https://standards.ieee.org/develop/regauth/cid/cid.csv"
 jupyter nbextension enable --py gmaps

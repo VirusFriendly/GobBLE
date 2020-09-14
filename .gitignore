@@ -3,4 +3,6 @@ RaMBLE.sqlite
 device_names.csv
 device_types.csv
 interesting_devices.csv
+data/cid.csv
+data/nmap-mac-prefixes
 .ipynb_checkpoints/
