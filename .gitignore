@@ -6,3 +6,4 @@ interesting_devices.csv
 data/cid.csv
 data/nmap-mac-prefixes
 .ipynb_checkpoints/
+backup/

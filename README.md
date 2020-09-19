@@ -7,7 +7,7 @@ This Jupyter notebook analyzes the RaMBLE database to enumerate new BLE devices 
 
 # Preview
 
-A static preview can be [found here](https://github.com/VirusFriendly/GobBLE/raw/master/assets/GobBLE_original.html)
+A static preview can be [found here](https://github.com/VirusFriendly/GobBLE/raw/master/assets/GobBLE_static.html)
 
 # Get Started
 
