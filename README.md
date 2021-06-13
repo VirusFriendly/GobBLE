@@ -9,6 +9,8 @@ This Jupyter notebook analyzes the RaMBLE database to enumerate new BLE devices 
 
 A static preview can be [found here](https://github.com/VirusFriendly/GobBLE/raw/master/assets/GobBLE_static.html)
 
+A dynamic preview can be seen on [Binder](https://mybinder.org/v2/gh/VirusFriendly/GobBLE/master)
+
 # Get Started
 
 If you're unfamiliar with using Jupyter notebooks, [here's a simple tutorial](http://opentechschool.github.io/python-data-intro/core/notebook.html)
